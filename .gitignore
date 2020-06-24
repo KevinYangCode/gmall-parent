@@ -1,8 +1,5 @@
-# Project exclude paths
-/dw-chart/target/
-/gmall-cancal/target/
-/gmall-common/target/
-/gmall-logger/target/
-/gmall-mock/target/
-/gmall-publisher/target/
-/gmall-realtime/target/
+# IntelliJ project files
+.idea
+*.iml
+out
+*/target
